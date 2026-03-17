@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá, eu sou o João Paulo
+🎓 Estudante de ADS no IFSP — Campus Salto 💻 Desenvolvedor Fullstack | Foco em Desenvolvimento de Sistemas
+🚀 Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas com experiência prática em desenvolvimento por meio de projetos próprios e freelances. Gosto de escrever código limpo, entender a regra de negócio por trás de cada funcionalidade e entregar soluções que realmente funcionam.
+Acredito que bom desenvolvimento começa antes do código, na análise, no entendimento do problema e na escolha da solução certa.
 
-<!--
-**JotaPedroso/JotaPedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 Foco Atual
+Desenvolvimento de sistemas e novas funcionalidades
+Análise de requisitos e resolução de problemas lógicos
+Identificação e correção de bugs
+Testes e qualidade de entrega
+Documentação técnica de projetos
 
-Here are some ideas to get you started:
+🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+Java
+Machine Learning
+HTML & CSS
+MySQL
+PostgreSQL
+Git & GitHub
+Linux & Windows
+
+🎯 Objetivo
+Atuar como desenvolvedor em um time que valorize qualidade e colaboração, contribuindo com soluções técnicas bem estruturadas e evoluindo continuamente como profissional de tecnologia.
+

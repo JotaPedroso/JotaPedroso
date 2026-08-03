@@ -1,50 +1,59 @@
-Olá, eu sou o João Paulo
+# Olá, eu sou o João Paulo 👋
 
-🎓 Estudante de ADS no IFSP — Campus Salto 💻 Desenvolvedor Fullstack | Foco em Desenvolvimento de Sistemas
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFSP – Campus Salto
+🧪 Foco em Automação de Testes Web e API
 
+# 🚀 Sobre mim
 
-🚀 Sobre mim
+Sou QA Engineer com experiência em testes manuais e automatizados para aplicações Web e APIs, atuando em ambientes ágeis e colaborando com equipes multidisciplinares para garantir a qualidade das entregas.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com experiência prática em desenvolvimento por meio de projetos próprios e freelances. Gosto de escrever código limpo, entender a regra de negócio por trás de cada funcionalidade e entregar soluções que realmente funcionam.
+Tenho experiência no desenvolvimento de automações de testes, validação de APIs REST, testes de contrato, funcionais, integrados e regressão, além da integração de testes em pipelines CI/CD.
 
-Acredito que bom desenvolvimento começa antes do código, na análise, no entendimento do problema e na escolha da solução certa.
+Busco constantemente evoluir minhas habilidades técnicas e contribuir para o desenvolvimento de soluções confiáveis, escaláveis e de alta qualidade.
 
+# 🧪 Atuação
+Automação de testes Web com Playwright
+Automação de APIs REST utilizando C#, .NET e xUnit
+Testes funcionais, contrato, integração e regressão
+Validação de fluxos assíncronos com Apache Kafka
+BDD com Reqnroll e Gherkin
+Integração de testes em pipelines Azure DevOps (CI/CD)
+Análise de requisitos e regras de negócio
+Gestão de defeitos e garantia da qualidade de software
 
+# 🛠️ Tecnologias
 
-🧪 Foco Atual
+Linguagens
 
-Desenvolvimento de sistemas e novas funcionalidades
-
-Análise de requisitos e resolução de problemas lógicos
-
-Identificação e correção de bugs
-
-Testes e qualidade de entrega
-
-Documentação técnica de projetos
-
-
-🛠️ Tecnologias
-
-Python
-
+C#
 Java
+Python
+JavaScript
 
-Machine Learning
+QA & Automação
 
-HTML & CSS
+.NET
+Playwright
+RestSharp
+xUnit
+Reqnroll
+Cucumber
+Cypress
+Postman
 
-MySQL
+DevOps
 
-PostgreSQL
+Azure DevOps
+Jenkins
+Git
+GitHub
 
-Git & GitHub
+Banco de Dados
 
-Linux & Windows
+SQL
+MongoDB
 
 
+# 🎯 Objetivo
 
-🎯 Objetivo
-
-Atuar como desenvolvedor em um time que valorize qualidade e colaboração, contribuindo com soluções técnicas bem estruturadas e evoluindo continuamente como profissional de tecnologia.
-
+Atuar como QA Engineer, desenvolvendo soluções de automação de testes que contribuam para a qualidade, confiabilidade e evolução contínua das aplicações, sempre buscando aprimorar processos, compartilhar conhecimento e gerar valor para o negócio.

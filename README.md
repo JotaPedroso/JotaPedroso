@@ -1,6 +1,7 @@
 # Olá, eu sou o João Paulo 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFSP – Campus Salto
+
 🧪 Foco em Automação de Testes Web e API
 
 # 🚀 Sobre mim
